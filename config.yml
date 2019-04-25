@@ -1,0 +1,3 @@
+    document_heading: %Y-%m
+    daily_heading: %d
+    timestamp: %R 
