@@ -33,6 +33,4 @@ Have a nice day!<br>
 - Apach   
 
 
-
-2019. ápr. 25., Cs 18:41:59
-2019. ápr. 25., Cs 18:43:44
+Thu Apr 25 18:44:53     2019
