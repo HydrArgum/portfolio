@@ -1,6 +1,6 @@
 # Kristóf Nagy - Hungary
-**Hi!<br><br>
-This is the repository of my personal portfolio.<br>
+Hi!<br><br>
+This is my personal repository.<br>
 I collected my works here with presentational purpose.<br>
 <br>
 Thank you for checking!**
