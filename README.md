@@ -1,4 +1,4 @@
-# Kristóf Nagy - Hungary
+﻿# Kristóf Nagy - Hungary
 Hi!<br>
 This is my personal repository.<br>
 I collected my works, notes and questions here.<br>
@@ -31,4 +31,5 @@ Have a nice day!<br>
 - CSS  
 - PHP  
 - Apach   
-2019. ápr. 25., Cs 15:31:45
+
+
