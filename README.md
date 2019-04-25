@@ -1,8 +1,8 @@
 # Kristóf Nagy - Hungary
 Hi!<br>
 This is my personal repository.<br>
-I collected my works here with presentational purpose.<br>
-Thank you for checking!
+I collected my works, notes and questions here.<br>
+Have a nice day!
 
 ---
 ### Projects
