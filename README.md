@@ -1,3 +1,7 @@
+document_heading: %Y-%m  
+daily_heading: %d  
+timestamp: %R   
+
 # Kristóf Nagy - Hungary
 Hi!<br>
 This is my personal repository.<br>
