@@ -1,6 +1,4 @@
-document_heading: %Y-%m  
-daily_heading: %d  
-timestamp: %R   
+document_heading  
 
 # Kristóf Nagy - Hungary
 Hi!<br>
