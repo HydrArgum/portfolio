@@ -1,7 +1,9 @@
 # Kristóf Nagy - Hungary
-This is the repository of my personal portfolio.  
-I collected my works here with presentational purpose.  
-Thank you for checking!  
+**Hi!<br><br>
+This is the repository of my personal portfolio.<br>
+I collected my works here with presentational purpose.<br>
+<br>
+Thank you for checking!**
 
 ---
 ### Projects
@@ -10,7 +12,7 @@ Thank you for checking!
 - Piano notes
 
 ---
-### Notes and questions related my studies
+### Personal notes and questions related my studies
 - Design-Patterns  
   - [questions/design-patterns/builder/NestedClass](questions/design-patterns/builder/NestedClass)  
 - [JAVA APIs](https://hu.wikipedia.org/wiki/Kateg%C3%B3ria:Java_API-k)  
