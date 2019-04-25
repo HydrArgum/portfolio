@@ -24,7 +24,7 @@ Have a nice day!
   - C  
   - C++  
 - SQL  
-- Git, GitHub, GitBash  
+- Git, GitHub, GitBash, GitHub Desktop  
 - HTML  
 - CSS  
 - PHP  
