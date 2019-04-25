@@ -1,4 +1,3 @@
-document_heading  
 
 # Kristóf Nagy - Hungary
 Hi!<br>
@@ -6,7 +5,7 @@ This is my personal repository.<br>
 I collected my works, notes and questions here.<br>
 Have a nice day!
 
-<https://hydrargum.github.io/portfolio/>
+(https://hydrargum.github.io/portfolio/)
 
 ---
 ### Projects
