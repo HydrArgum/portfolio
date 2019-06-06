@@ -30,6 +30,6 @@ Have a nice day!<br>
 - HTML  
 - CSS  
 - PHP  
-- Apach   
+- Apach
 
-2019. ápr. 25.
+2019.06.06
