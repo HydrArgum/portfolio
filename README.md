@@ -32,4 +32,4 @@ Have a nice day!<br>
 - PHP  
 - Apach   
 
-2019. ápr. 25., Cs 18:41:59
+2019. ápr. 25.
