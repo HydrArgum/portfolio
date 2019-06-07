@@ -1,0 +1,31 @@
+kérdés_001:
+ha van belső osztály, akkor annak a belső metódusa lehet azonos nevű egy fő-metódussal?
+
+pl
+HERO
+	Builder
+		WithC
+		WithD
+	}
+	WithC
+}
+
+Ha igen, meghívható ez?
+
+HERO.Builder().WithC();
+HERO.WithC();
+
+elméletileg a this egyértelművé teszi!
+pl: HERO.this.WithC();
+
+
+-----------------------------------------
+kérdés_002:
+Miért kell a Builder minta, ha azt is csinálhatnám, hogy a HERO-n belül megadott beállítókat hívom meg igény szerint.
+Azt nem lehet?
+
+pl:
+HERO.WithC().WithD().Set()
+
+Ezt le kell ellenőrizni!dr
+
